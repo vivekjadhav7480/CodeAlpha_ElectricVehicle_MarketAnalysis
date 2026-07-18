@@ -1,4 +1,3 @@
-# CodeAlpha_ElectricVehicle_MarketAnalysis
 # 🚗 CodeAlpha – Electric Vehicle Market Analysis
 
 > **A complete Data Analytics project that demonstrates Web Scraping, Exploratory Data Analysis (EDA), and Data Visualization using Python.**
